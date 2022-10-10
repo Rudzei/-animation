@@ -35,6 +35,7 @@ body {
   background-color: black;
   border: 1px solid #eeee;
   color: #ffff;
+  transition: 0.5s ease-in;
 }
 
 .front {
