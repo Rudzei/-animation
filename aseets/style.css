@@ -47,7 +47,7 @@ body {
   transform: rotateX(-270deg) translateY(-100px);
   transform-origin: top center;
 }
-.button {
+.bottom {
   transform: rotateX(270deg) translateY(100px);
   transform-origin: bottom center;
 }
@@ -78,7 +78,7 @@ body {
 .wrap:hover .top {
   transform: rotateX(-270deg) translateZ(100px) translateY(-100px);
 }
-.wrap:hover .buttom {
+.wrap:hover .bottom {
   transform: rotateX(270deg) translateZ(100px) translateY(100px);
 }
 .wrap:hover .left {
